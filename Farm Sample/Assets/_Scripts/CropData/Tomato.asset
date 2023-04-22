@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c0a20c3916151c45b9cdbf185c8fc69, type: 3}
+  m_Name: Tomato
+  m_EditorClassIdentifier: 
+  cropName: Tomato
+  cropID: 101
+  timesToGrow: 600
+  timesLife: 40
+  growProgressSprites:
+  - {fileID: 21300000, guid: 323d50cb671b0744b8c3672a23304c70, type: 3}
+  - {fileID: 21300000, guid: f51d15d71f81e7e49ac9c0615d4adfbb, type: 3}
+  readyToHarvestSprite: {fileID: 21300000, guid: 7ff8497708a71034c8afc0a92f23f5f1, type: 3}
+  purchasePrice: 30
+  sellPrice: 5
+  cropPrefab: {fileID: 6919859093195576412, guid: f7cd86bf6d41a4845b9c093805b40237, type: 3}

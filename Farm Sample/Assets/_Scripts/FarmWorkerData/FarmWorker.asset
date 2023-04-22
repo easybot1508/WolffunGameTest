@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d27f0b6663d859f4ca48c97dc9095307, type: 3}
+  m_Name: FarmWorker
+  m_EditorClassIdentifier: 
+  workerName: Worker 1
+  timesToWork: 120
+  purchasePrice: 500
+  workerPrefab: {fileID: 133505609642776302, guid: 44ab360f853f9fb489c1343f1f666330, type: 3}
